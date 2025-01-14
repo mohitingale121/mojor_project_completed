@@ -174,4 +174,4 @@ def predict():
                            steps=possible_steps, image_url=image_url, supplements=supplements)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
